@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-ID="Youtube.UK" tvg-name="My Test" group-title="|VOD-FR| DISNEY",|FR| Alerte rouge (2022)
-https://youtu.be/RST75TRjBY4?si=E9mQoePYO3rRnrX5
